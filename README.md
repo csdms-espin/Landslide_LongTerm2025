@@ -1,5 +1,6 @@
 Modeling Landslides and Long-Term Topographic Evolution with Landlab
 
+
 About the Project
 This project explores how landslides shape the long-term evolution of landscapes using Landlab, a Python-based modeling toolkit for Earth surface processes. Our focus is on how vegetation and precipitation—two key environmental factors—interact with slope stability and influence erosion over time.
 
